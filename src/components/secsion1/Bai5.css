@@ -1,0 +1,38 @@
+.container{
+    boder: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    color: gray;
+}
+
+table, th, tr, td {
+    border: 1px solid gray ;
+    border-collapse: collapse;
+}
+
+table{
+    margin: 10px;
+}
+
+th{
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+}
+
+.btn{
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.btn_blue{
+    border: 1px solid green;
+    margin: 2px;
+}
